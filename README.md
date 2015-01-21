@@ -13,4 +13,8 @@
 |   满庭芳  | 八声甘州| 昼夜乐  | 双双燕  | 念奴娇  |   桂枝香  | 翠楼吟  | 石州慢  |   水龙吟  | 雨霖铃  |
 |   永遇乐  | 望海潮  | 沁园春  | 贺新郎  | 摸鱼儿  |   迈跛塘  | 六州歌头|
 
-3.相关链接:[搜韵网](http://sou-yun.com/QueryCiTune.aspx)  [亿启网络](http://www.eeqi.com/cipai/)
+
+3.相关链接:
+[搜韵网](http://sou-yun.com/QueryCiTune.aspx)  提供常用词牌格律
+[亿启网络](http://www.eeqi.com/cipai/)  提共常用词牌列表
+[古诗文网](http://www.gushiwen.org/)  提供词牌名篇解读
