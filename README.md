@@ -2,7 +2,7 @@
 
 2.常用词牌列表
 
-|:heavy_plus_sign:|:heavy_minus_sign:|:heavy_multiplication_x:|:heavy_multiplication_x:|/play secret|:laughing:|    :angry:|:sob:| :joy: | /play trombone |
+|:heavy_plus_sign:|:heavy_minus_sign:|:heavy_multiplication_x:|:heavy_division_sign:|:heavy_check_mark:|:laughing:|    :angry:|:sob:| :joy: |:wink:|
 |:---------:| :------:| :------:| :------:| :-----: |  :----:  |  :----:  | :-----: |  :----:   | :----:  |
 | 十六字令  | 捣练子  |	忆江南  |	忆王孙  |	调笑令  |  如梦令  |	相见欢  | 乌夜啼  |	  长相思  | 生查子  | 
 |   点绛唇  | 浣溪沙  | 菩萨蛮  |  卜算子 | 采桑子  |减字木兰花|  谒金门  | 诉衷情  |   忆秦娥  | 清平乐  |
