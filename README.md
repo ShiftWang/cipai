@@ -17,5 +17,4 @@
 3.相关链接:
 
 [搜韵网](http://sou-yun.com/QueryCiTune.aspx) (常用词牌格律)
-[亿启网络](http://www.eeqi.com/cipai/)  (常用词牌列表)
 [古诗文网](http://www.gushiwen.org/)  (大量词牌名篇)
