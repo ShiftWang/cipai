@@ -20,6 +20,6 @@
 ### 3.相关链接:
 
 [搜韵网](http://sou-yun.com/QueryCiTune.aspx) (常用词牌格律)
-[古诗文网](http://www.gushiwen.org/)  (大量词牌名篇)
-
+[古诗文网](http://www.gushiwen.org/)  (大量诗词名篇)
+[中国哲学书电子化计划](http://ctext.org/zhs)  (大量古籍资料)
 
